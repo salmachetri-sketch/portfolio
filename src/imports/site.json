@@ -1,0 +1,10 @@
+{
+  "description": "Create and manage a fully functional website effortlessly with intuitive tools designed for users of all skill levels, enhancing online presence.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
